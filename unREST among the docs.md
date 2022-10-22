@@ -1,0 +1,64 @@
+- unREST among the docs
+  - by Akshay Bhalotia
+  - Product Manager - Developer Experience, Phyllo
+- what are we going to talk about
+  - designing for docs
+  - developer experience
+- who is this for
+  - technical writers - because they face these things daily
+  - designers - who are working on developer information systems
+  - developers - who want to be better at writing systems
+- about me
+  - designation
+  - payment systems and developer SaaS
+  - cats
+  - boardgames and mechanical keyboards
+- why would you listen to me
+  - an iOS Developer at an outsourcing boutique and FinTech API startup
+  - an account manager at tech events and media company
+  - an operations lead at a digital marketing agency
+  - support and solutions engineer at another FinTech API startup
+  - and now, a product manager at a data gateway API company
+- problem
+- docs are hard
+  - give info
+  - in an easily readable manner
+  - in an easily findable manner
+  - help with the next steps
+  - give them enough
+  - don't make them come back
+- what is harder
+  - documenting frontend SDKs
+  - documenting UI features
+  - with version control
+  - feature based releases, without a release cycle
+  - breaking changes
+- let's see how i tried doing this
+- razorpay
+  - add samples of why this is good
+  - tech writing, design, navigation, thinking holistically of the developer experience
+- setu
+  - add samples of why this is good
+  - tech writing, design, navigation, thinking holistically of the developer experience
+- dyte
+  - add samples of why this is good
+  - tech writing, design, navigation, thinking holistically of the developer experience
+- phyllo
+  - add samples of why this is good
+  - tech writing, design, navigation, thinking holistically of the developer experience
+- examples (with screenshot)
+  - react
+  - vue.js
+  - stripe
+  - alamofire
+  - mux
+  - agora
+  - auth0
+- conclusion
+  - i don't know if there are rules or guidelines that i can give you
+  - think of the user
+  - think about what matters to them
+  - try not to overwhelm
+  - but keep information inaccessible
+- my sincere wish
+  - standards for method definitions
