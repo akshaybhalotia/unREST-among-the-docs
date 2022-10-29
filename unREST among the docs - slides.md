@@ -56,7 +56,7 @@ p {
   - Mechanical keyboards
 
 <p style="text-align:right; font-size: 40px">
-    Find me here <a href="https://axy.one/twitter"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/twitter.svg" alt="https://axy.one/twitter" width=40></img></a> <a href="https://axy.one/github"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" alt="https://axy.one/github" width=40></img></a> <a href="https://axy.one/linkedin"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" alt="https://axy.one/linkedin" width=40></img></a> <a href="mailto:letstalk@axy.one"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg" alt="letstalk@axy.one" width=40></img></a>
+    Find me here <a href="https://axy.one/twitter"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/twitter.svg" alt="https://axy.one/twitter" width=40 style="background-color:#f7ede2"></img></a> <a href="https://axy.one/github"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" alt="https://axy.one/github" width=40 style="background-color:#f7ede2"></img></a> <a href="https://axy.one/linkedin"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" alt="https://axy.one/linkedin" width=40 style="background-color:#f7ede2"></img></a> <a href="mailto:letstalk@axy.one"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg" alt="letstalk@axy.one" width=40 style="background-color:#f7ede2"></img></a>
 </p>
 
 ---
@@ -65,11 +65,11 @@ p {
 
 I've seen some :poop: in my life
 
-- an iOS Developer at an outsourcing boutique and a FinTech API startup
-- an account manager at tech events and media company
-- support and solutions engineer at another FinTech API startup
-- developer relations manager at a real-time video API startup
-- and now, a product manager at a data gateway API company
+- An iOS Developer at an outsourcing boutique ([Optimus Information, Inc.](https://www.optimusinfo.com)) and a FinTech API startup ([Razorpay](https://razorpay.com))
+- An account manager at tech events and media company ([HasGeek](https://hasgeek.com))
+- Support and solutions engineer at another FinTech API startup ([Setu](https://setu.co))
+- Developer relations manager at a real-time video API startup ([Dyte](https://dyte.io))
+- And now, a product manager at a data gateway API company ([Phyllo](https://getphyllo.com))
 
 ---
 
@@ -339,7 +339,7 @@ Maintain a changelog (this is probably not the best way but work with whatever y
 
 ---
 
-I tried turning towards two of the most popular frontend frameworks that are used to build modern apps, and here is what I find.
+I tried turning towards two of the most popular frontend frameworks that are used to build modern apps, and here is what I found.
 
 ---
 
@@ -447,6 +447,10 @@ Standards for method definitions, across languages and frameworks, including UI 
 
 ## Thank you for listening to my rant
 
-<img src="./malai-makkan.jpeg" height=400></img>
+<p>
+  <img src="./malai-makkan.jpeg" alt="my cats looking curiously at the camera while their photo is being clicked" height=400></img>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./social QR.png" alt="qr codes for my contact info" height=400 style="background-color:#f7ede2"></img>
+</p>
 
 _I can try answering your questions now, no guarantees though._
