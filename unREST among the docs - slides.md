@@ -448,9 +448,11 @@ Standards for method definitions, across languages and frameworks, including UI 
 ## Thank you for listening to my rant
 
 <p>
-  <img src="./malai-makkan.jpeg" alt="my cats looking curiously at the camera while their photo is being clicked" height=400></img>
+  <img src="./malai-makkhan.jpeg" alt="my cats looking curiously at the camera while their photo is being clicked" height=400></img>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./social QR.png" alt="qr codes for my contact info" height=400 style="background-color:#f7ede2"></img>
 </p>
+
+Access the slides at [https://github.com/akshaybhalotia/unREST-among-the-docs](https://github.com/akshaybhalotia/unREST-among-the-docs).
 
 _I can try answering your questions now, no guarantees though._
